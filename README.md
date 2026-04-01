@@ -1,3 +1,3 @@
 # Repository for final project
 
-Project name: Final pproject
+Project name: Final project
